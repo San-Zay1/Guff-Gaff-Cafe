@@ -1,0 +1,12 @@
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\bin\Debug\18028933SanjayaShrestha.exe.config
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\bin\Debug\18028933SanjayaShrestha.exe
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\bin\Debug\18028933SanjayaShrestha.pdb
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\_18028933SanjayaShrestha.Properties.Resources.resources
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\18028933SanjayaShrestha.csproj.GenerateResource.cache
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\18028933SanjayaShrestha.csproj.CoreCompileInputs.cache
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\18028933SanjayaShrestha.exe
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\18028933SanjayaShrestha.pdb
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\_18028933SanjayaShrestha.Login.resources
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\_18028933SanjayaShrestha.CustomerPage.resources
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\_18028933SanjayaShrestha.AdminPage.resources
+E:\3rd year\Applcation Development\18028933SanjayaShrestha\18028933SanjayaShrestha\obj\Debug\18028933SanjayaShrestha.csprojAssemblyReference.cache
